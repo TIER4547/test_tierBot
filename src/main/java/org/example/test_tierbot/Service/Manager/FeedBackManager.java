@@ -29,9 +29,9 @@ public class FeedBackManager extends AbstractManager {
                     message.getChatId(),
                     """
                         📍 Ссылки для обратной связи
-                        GitHub - https://github.com/pavelitel05
-                        LinkedIn - https://linkedin.com/in/павел-кирсанов-62b762263
-                        Telegram - https://t.me/pavelitel05
+                        GitHub - https://github.com/TIER4547
+                        LinkedIn - 
+                        Telegram - https://t.me/@TIER01
                         """,
                         null
                 );
@@ -42,9 +42,9 @@ public class FeedBackManager extends AbstractManager {
                 callbackQuery,
                 """
                         📍 Ссылки для обратной связи
-                        GitHub - https://github.com/pavelitel05
-                        LinkedIn - https://linkedin.com/in/павел-кирсанов-62b762263
-                        Telegram - https://t.me/pavelitel05
+                        GitHub - https://github.com/TIER4547
+                        LinkedIn - 
+                        Telegram - https://t.me/@TIER01
                         """,
                 null
         );
